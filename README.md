@@ -1,4 +1,4 @@
-# Assignment 1
+# Human Activity Recognition
 
 ## Total 20 marks (Will be scaled down to 10 marks)
 
